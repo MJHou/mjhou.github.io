@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[Android](https://github.com/MJHou/mjhou.github.io/edit/master/android/index.md)
+[Android](./android/index.md)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
